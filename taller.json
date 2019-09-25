@@ -1,14 +1,14 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
+  "squadName" : "Pfng",
+  "homeTown" : "Bolivar",
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
+      "name" : "Mujer Maravilla",
       "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "secretIdentity" : "Paula Franco",
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
@@ -16,19 +16,9 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    },
-    {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Miss Nature",
+      "age" : 17,
+      "secretIdentity" : "Nicol Juliana",
       "powers" : [
         "Immortality",
         "Heat Immunity",
